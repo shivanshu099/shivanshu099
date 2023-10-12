@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Web Framework**
 
-- 📫 How to reach me **kshivansh.knp@gmail.com**
+- 📫 How to reach me **kshivansh.knp+hi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
