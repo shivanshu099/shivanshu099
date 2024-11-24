@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivanshu prajapati</h1>
-<h3 align="center">A passionate frontend and django devloper from India</h3>
+<h3 align="center">A passionate Data Scientist and django devloper from India</h3>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWY2amJkcmp2enQ4eWRrNm5uYnM2MDk0dTd5Y2thN3Yzc2x0eXlmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu099&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu099" /> </p>
