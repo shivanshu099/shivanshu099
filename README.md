@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanshu099&label=Profile%20views&color=0e75b6&style=flat" alt="shivanshu099" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Data Scientist**
 
-- 💬 Ask me about **Web Framework**
+- 💬 Please share any questions related to being a **Data Scientist**
 
 - 📫 How to reach me **kshivansh.knp+hi@gmail.com**
 
